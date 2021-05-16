@@ -2,7 +2,8 @@
 
 ## Created by Catherine(Zhilin) Zhou and [Meredith(Xinru) Cheng](https://www.linkedin.com/in/meredith-cheng/)
 
-In this project, we designed a board game called Monoply for multiple players with an AI computer player.
+In this project, we designed a board game called Monoply, written in `C++`, for multiple players with an AI computer player. 
+Technology: We used Object-Oriented Programming concepts and design patterns, including Observer, MVC and Template Method. 
 
 ## Overview
 The overall structure of this program splits into three sections: Model, View, and Control. We decide to implement the Bittersweet `MVC` design pattern to organize our classes and their relationships to make the program with higher cohesion inside the classes and lower coupling between classes.
