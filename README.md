@@ -2,7 +2,7 @@
 
 ## Created by Catherine(Zhilin) Zhou and [Meredith(Xinru) Cheng](https://www.linkedin.com/in/meredith-cheng/)
 
-In this project, we designed a board game called Monoply, written in `C++`, for multiple players with an AI computer player. 
+In this project, we designed a board game called Monoply, written in `C++`, for multiple players with an AI computer player.   
 Technology: We used Object-Oriented Programming concepts and design patterns, including Observer, MVC and Template Method. 
 
 ## Overview
